@@ -9,6 +9,7 @@
 .container{
     max-width: 900px;
     margin: 0 auto;
+    background-color: white;
 }
 
 
@@ -19,11 +20,26 @@
     text-align: center;
 }
 
-.pt-10{
-    padding-top: 10px;
+.py-10{
+    padding: 10px 0;
 }
 
 .fs-20{
     font-size: 20px;
+}
+
+.color-red{
+    color: red;
+}
+
+
+.bg-color{
+    background-color:  #0098ff96;
+    padding: 10px;
+}
+
+.border{
+    border: 2px solid black;
+    border-radius: 5px;
 }
 

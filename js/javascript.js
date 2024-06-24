@@ -7,6 +7,8 @@ document.getElementById('text').innerHTML ='<strong>Inserisci Nome Cognome color
 
 
 console.log(document.getElementById('login'));
+console.log(document.getElementById('text'));
+
 // con questa funzione l'elemento con id login e apparso nell'ispector voce console e mostra una serie di proprietà tra cui l'id e il contenuto inserito tramite la funzione inner html
 
 
@@ -20,8 +22,6 @@ console.log(second_name)
 
 let color = prompt ('inserisci il tuo colore preferito');
 console.log(color)
-
-
 
 
 document.getElementById('login').innerText = `${first_name}${second_name}${color}23`;

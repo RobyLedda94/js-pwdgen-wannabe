@@ -13,8 +13,8 @@ console.log(document.getElementById('login'));
 // Variabili 
 
 let first_name = prompt('inserisci il tuo nome');
-console.log(userName)
+console.log(first_name)
 
 
 let second_name = prompt('inserisci il tuo cognome');
-console.log(usersurname)
+console.log(second_name)

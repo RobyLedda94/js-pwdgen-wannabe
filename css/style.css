@@ -4,11 +4,17 @@
     box-sizing: border-box;
 }
 
+
+/* CLASSI DI LAYOUT */
 .container{
     max-width: 900px;
     margin: 0 auto;
 }
 
+
+
+
+/* CLASSI DI STILE */
 .text-center{
     text-align: center;
 }
@@ -16,3 +22,8 @@
 .pt-10{
     padding-top: 10px;
 }
+
+.fs-20{
+    font-size: 20px;
+}
+
